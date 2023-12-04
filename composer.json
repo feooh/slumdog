@@ -1,0 +1,28 @@
+{
+    "name": "feooh/slumdog",
+    "description": "Pioneering creative code generation, sculpting innovative functionalities at the software architecture's core: Laravel SlumDog",
+    "keywords": [
+        "Feooh",
+        "laravel",
+        "slumdog"
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Feooh\\Slumdog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Feooh",
+            "email": "slumdog@feooh.com"
+        }
+    ],
+
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

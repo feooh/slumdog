@@ -1,7 +1,7 @@
 # Laravel SlumDog
 
-[![Latest Version](https://img.shields.io/github/release/slumdogfeooh/slumdog.svg?style=flat-square)](https://github.com/slumdogfeooh/slumdog/releases)
-[![Total Downloads](https://img.shields.io/packagist/dt/slumdogfeooh/slumdog.svg?style=flat-square)](https://packagist.org/packages/slumdogfeooh/slumdog)
+[![Latest Version](https://img.shields.io/github/release/feooh/slumdog.svg?style=flat-square)](https://github.com/feooh/slumdog/releases)
+[![Total Downloads](https://img.shields.io/packagist/dt/feooh/slumdog.svg?style=flat-square)](https://packagist.org/packages/feooh/slumdog)
 
 
 Pioneering creative code generation, sculpting innovative functionalities at the software architecture's core

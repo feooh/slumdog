@@ -1,5 +1,5 @@
 {
-    "name": "feooh/slumdog",
+    "name": "slumdogfeooh/slumdog",
     "description": "Pioneering creative code generation, sculpting innovative functionalities at the software architecture's core: Laravel SlumDog",
     "keywords": [
         "Feooh",
@@ -20,7 +20,13 @@
             "email": "slumdog@feooh.com"
         }
     ],
-
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Feooh\\Slumdog\\GeneratorServiceProvider"
+            ]
+        }
+    },
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",

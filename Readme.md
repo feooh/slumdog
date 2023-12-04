@@ -11,7 +11,7 @@ Pioneering creative code generation, sculpting innovative functionalities at the
 You can install the package via composer:
 
 ```bash
-composer require slumdogfeooh/slumdog
+composer require feooh/slumdog
 ```
 
 ## Changelog
